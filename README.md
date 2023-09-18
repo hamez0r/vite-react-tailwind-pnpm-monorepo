@@ -1,4 +1,4 @@
-<h1 align="center">Redocs (for now)</h1>
+<h1 align="center">Example monorepo</h1>
 
 ## Usage
 
