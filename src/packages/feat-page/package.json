@@ -1,0 +1,12 @@
+{
+  "name": "@feat/page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Example Page",
+  "exports": {
+    ".": {
+      "import": "./index.tsx"
+    }
+  },
+  "main": "index.tsx"
+}
