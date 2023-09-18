@@ -4,5 +4,5 @@
 
 ```shell
 pnpm i
-pnpm redocs dev
+pnpm app dev
 ```
